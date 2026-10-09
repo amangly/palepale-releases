@@ -13,5 +13,3 @@ Rename your platform's downloaded binary to `palepale.exe` on Windows or `palepa
 Published CLI builds check for a newer release when you open an interactive session, at most once per day. Run `palepale update` to check immediately. Restart after an update to use the new version. Your saved account connection, settings and conversations stay in your CLI home directory.
 
 To disable background updates, set `auto_update = false` in `~/.palepale/config.toml`, or set `PALEPALE_NO_UPDATE=1`.
-
-The first release is pending publication. More information: [palepale.tech](https://palepale.tech).
